@@ -4,6 +4,7 @@
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 - [Mikael Huss, Stockholm, Sweden](bio/mhuss.md)
 - [Tayab Soomro. Saskatoon, Canada](bio/tsoomro.md)
+- [Thawfeek Varusai. Cambridge, UK](bio/tvarusai.md)
 
 ## Who we are
 
